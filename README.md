@@ -31,5 +31,5 @@ Here are some of my public projects. Feel free to explore and check the code ðŸ‘
 ## ðŸ“« Contact Me  
 - LinkedIn: www.linkedin.com/in/kalith18 
 - Email: kalith96mohamed@gmail.com  
-- Portfolio: *If you have a personal site or portfolio URL*  
+ 
 
