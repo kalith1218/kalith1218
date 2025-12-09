@@ -18,7 +18,7 @@ Here are some of my public projects. Feel free to explore and check the code ðŸ‘
 
 | Project Name | Description | Link |
 |--------------|-------------|------|
-| Agency.ai website | A modern, responsive agency landing page showcasing AI-driven services, designed with clean UI and smooth interactions. | `[Project Link](agency4-ai.netlify.app)` |
+| Agency.ai website | A modern, responsive agency landing page showcasing AI-driven services, designed with clean UI and smooth interactions. | https://agency4-ai.netlify.app |
 
 
 ## ðŸ“ˆ GitHub Stats  
